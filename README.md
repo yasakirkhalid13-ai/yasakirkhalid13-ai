@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hi 👋 I'm **Yasakir Khalid**  
-🎓 BSIT Student | 💻 Aspiring Software Developer  
+🎓 BSIT Student | 💻 Aspiring Software Engineer 
 
 I’m passionate about building real-world applications and continuously improving my development skills.
 
